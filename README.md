@@ -1,2 +1,2 @@
 # coffee-data-analysis
-in this a coffee data set is analysed using panda
+in this a coffee data set is analysed using panda package of python 
